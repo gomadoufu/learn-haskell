@@ -2,3 +2,4 @@
 .stack-work/
 stack.yaml.lock
 hie.yaml
+sample.hs
